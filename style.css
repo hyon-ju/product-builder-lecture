@@ -118,3 +118,10 @@ body {
   border-radius: 4px;
   font-weight: bold;
 }
+
+#comments {
+  margin-top: 60px;
+  width: 100%;
+  max-width: 600px;
+  padding: 20px;
+}
